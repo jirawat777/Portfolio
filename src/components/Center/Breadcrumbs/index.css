@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'MyFont';
+  src: local('MyFont'), url(../../../Static/fonts/DB-AdmanSprayed-X.ttf) format('truetype');
+}
+
+.Header-Name {
+  color: rgb(72, 72, 72) !important;
+  font-family: MyFont !important;
+  font-size: 40px !important;
+}
+
+.span {
+  font-family: MyFont !important;
+}
+
+.Block-Breadcrump {
+  display: flex;
+  align-items: center;
+  padding: 15px 15px 15px 10px;
+}
+
+.icon-size {
+  font-size: 30px;
+  margin-right: 20px;
+}
+
+.Position-logout {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

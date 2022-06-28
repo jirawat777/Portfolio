@@ -1,0 +1,14 @@
+.Header {
+    height: 50px;
+    background-color: red;
+    width: 100vh;
+}
+
+
+.HomePage {
+    display: block;
+    background-color: #f5f5f5;
+    border-radius: 25px;
+    padding: 20px;
+    min-height: 85vh;
+}

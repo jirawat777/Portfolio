@@ -1,0 +1,17 @@
+.EducationPage {
+    display: block;
+    background-color: #f5f5f5;
+    border-radius: 25px;
+    padding: 20px;
+    min-height: 85vh;
+}
+.ContentEducation{
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    height: 62vh;
+    width: 100%;
+    display: flex;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

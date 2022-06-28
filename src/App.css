@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'ThemeFont';
+  src: local('ThemeFont'), url(./Static/fonts/DB-Heavent-v3.2.1.ttf) format('truetype');
+}
+
+.App {
+  font-family: 'ThemeFont';
+  display: flex;
+  font-size: 22px;
+}
+
+.Block-ALl {
+  width: 100%;
+  padding: 25px;
+}
+
+.empthy-block {
+  width: 28px;
+}

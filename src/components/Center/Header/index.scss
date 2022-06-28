@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "MyFont";
+  src: local("MyFont"), url(../../../Static/fonts/DB-AdmanSprayed-X.ttf) format("truetype");
+}
+
+.btn-text {
+  color: #122b43;
+}
+
+.Header-Name {
+  font-family: MyFont !important;
+  font-size: 40px !important;
+}
+
+.span {
+  font-family: MyFont !important;
+}
+
+.Block-Header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.icon-size {
+  font-size: 30px;
+  color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.logo-headpage {
+  border-radius: 200px;
+  background-color: #122b43;
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}

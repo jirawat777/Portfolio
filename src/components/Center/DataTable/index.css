@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Table';
+    src: local('ThemeFont'), url(../../../Static/fonts/DB-Heavent-v3.2.1.ttf) format('truetype');
+}
+
+.Table-Header {
+    font-size: 20px !important;
+    font-family: 'Table', sans-serif !important;
+    font-weight: 1000;
+}

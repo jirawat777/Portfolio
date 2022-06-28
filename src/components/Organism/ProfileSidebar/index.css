@@ -1,0 +1,30 @@
+.Avatar-Profile {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.block-profile {
+    background-color: #f0f4f4;
+    border-radius: 25px;
+}
+
+.Avatar-Image {
+    margin-top: 20px;
+    width: 120px !important;
+    height: 120px !important;
+}
+
+@font-face {
+    font-family: "MyFont";
+    src: local("MyFont"), url(../../../Static/fonts/DB-AdmanSprayed-X.ttf) format("truetype");
+}
+
+.Content-Profile {
+    font-family: MyFont;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: #122b43;
+    text-transform: uppercase;
+}

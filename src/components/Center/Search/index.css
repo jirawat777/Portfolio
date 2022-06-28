@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'SearchFont';
+  src: local('ThemeFont'), url(../../../Static/fonts/DB-Heavent-v3.2.1.ttf) format('truetype');
+}
+
+.Page-Name-Search {
+  font-family: 'SearchFont', sans-serif !important;
+  margin-top: 9px !important;
+  margin-left: 20px !important;
+}
+
+.Block-Header {
+  display: flex;
+}
+
+.Block-Content-Search {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.Content-Search {
+  padding: 0px 10px 15px 15px;
+}
+
+.Search-Button {
+  font-family: 'SearchFont', sans-serif !important;
+  font-size: 19px !important;
+  height: 40px;
+}
+
+.Search-Field {
+  width: 500px;
+}

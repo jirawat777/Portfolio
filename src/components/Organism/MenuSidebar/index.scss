@@ -1,0 +1,25 @@
+$active-color: #fff;
+$inactive-color: rgba(255, 255, 255, 0.7);
+@font-face {
+  font-family: "MyFont";
+  src: local("MyFont"), url(../../../Static/fonts/DB-AdmanSprayed-X.ttf) format("truetype");
+}
+.Menu-Sidebar {
+  font-size: 20px !important;
+  font-family: "MyFont", sans-serif !important;
+  height: 50px;
+  color: #122b43 !important;
+}
+.block-sidebar {
+  margin-top: 20px;
+  background-color: #f0f4f4;
+  border-radius: 25px;
+}
+.Block-Icon {
+  margin-top: -2px;
+  margin-right: 10px;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  color: #122b43;
+}

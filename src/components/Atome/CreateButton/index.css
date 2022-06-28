@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'LogoutFont';
+    src: local('ThemeFont'), url(../../../Static/fonts/DB-Heavent-v3.2.1.ttf) format('truetype');
+}
+
+.mg-10-create {
+    margin-top: 20px !important;
+    font-size: 18px !important;
+    font-family: 'LogoutFont', sans-serif !important;
+    font-weight: 1000 !important;
+}
