@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from '../../Center/Header'
-import './index.css'
+import './index.scss'
 import Box from '@mui/material/Box';
 
 function ProfilePage() {
