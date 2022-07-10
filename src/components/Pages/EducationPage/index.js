@@ -1,6 +1,5 @@
 import React from 'react'
 import Header from '../../Center/Header'
-import Paginations from '../../Center/Pagination'
 import CardContents from '../../Center/CardContent'
 import './index.scss'
 
