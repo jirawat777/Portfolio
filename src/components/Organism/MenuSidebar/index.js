@@ -9,7 +9,7 @@ function MenuSidebar() {
     const [path, setpath] = useState('')
 
     const MenuSidebar = [
-        { title: 'หน้าแรก', path: 'home', icon: 'fas fa-home', id: 'home' },
+        // { title: 'หน้าแรก', path: 'home', icon: 'fas fa-home', id: 'home' },
         { title: 'ประวัติส่วนตัว', path: 'profile', icon: 'fas fa-user', id: 'calculate' },
         { title: 'ประวัติการศึกษา', path: 'education', icon: 'fas fa-university', id: 'calculate' },
         { title: 'ประวัติการทำงาน', path: 'work', icon: 'fas fa-briefcase', id: 'list' },

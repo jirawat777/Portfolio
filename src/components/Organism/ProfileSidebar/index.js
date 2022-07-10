@@ -1,6 +1,6 @@
 import React from 'react'
 import Avatar from '@mui/material/Avatar';
-import './index.css'
+import './index.scss'
 import profile from '../../../Static/images/Profile/Profile.jpeg';
 
 function ProfileSidebar() {
